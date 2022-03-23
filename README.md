@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bclement1
 - 👀 I’m interested in nature... and coding!
 - 🌱 I’m currently learning NoSQL!
-- 💞️ I’m looking to collaborate on cookie recipes!
+- 💞️ I’m looking to collaborate on any interesting project!
 - 📫 How to reach me: clement.boulay@student-cs.fr
 
 <!---
