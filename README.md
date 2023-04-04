@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bclement1
-- 👀 I’m interested in nature... and coding!
-- 🌱 I’m currently learning Docker and GitHub Actions!
-- 💞️ I’m looking to collaborate on anything related to AI (particularly to Computer Vision or NLP)!
+- 👀 I’m interested in nature... and programming!
+- 🌱 I’m currently learning GitHub Actions!
+- 💞️ I’m looking to collaborate on anything related to AI, particularly to Computer Vision or NLP!
 - 📫 How to reach me: clement.boulay@student-cs.fr
 
 <!---
