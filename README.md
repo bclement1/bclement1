@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on anything related to AI, particularly to Computer Vision or NLP!
 - 📫 Reach me at: clement.boulay@student-cs.fr
 
-- 🤖 Visit my blog on AI <a href="https://bclement1.github.io">here</a> or by clicking on the image below: <br><br><br>
-  <p style="display:flex; text-align: center;"> 
+- 🤖 Visit my blog on AI <a href="https://bclement1.github.io">here</a> or by clicking on the image below: <br><br>
+  <p style="text-align: center;"> 
   <a href="https://bclement1.github.io">
   <img src="https://user-images.githubusercontent.com/93796446/232519756-67bba801-bbcf-4abe-9de5-beaf4cfbcaa1.png" />
   </a>
