@@ -1,10 +1,9 @@
 <p style="font-family: calibri;">
-- 👋 Hi, I’m @bclement1
-- 👀 I’m interested in nature... and programming!
-- 🌱 I’m currently learning GitHub Actions!
-- 💞️ I’m looking to collaborate on anything related to AI, particularly to Computer Vision or NLP!
-- 📫 Reach me at: clement.boulay@student-cs.fr
-
+- 👋 Hi, I’m @bclement1 <br>
+- 👀 I’m interested in nature... and programming! <br>
+- 🌱 I’m currently learning GitHub Actions! <br>
+- 💞️ I’m looking to collaborate on anything related to AI, particularly to Computer Vision or NLP! <br>
+- 📫 Reach me at: clement.boulay@student-cs.fr <br>
 - 🤖 Visit my blog on AI <a href="https://bclement1.github.io">here</a> or by clicking on the image below: <br><br>
   <p style="text-align: center;"> 
   <a href="https://bclement1.github.io">
