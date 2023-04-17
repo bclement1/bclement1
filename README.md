@@ -5,9 +5,11 @@
 - 📫 Reach me at: clement.boulay@student-cs.fr
 
 - 🤖 Visit my blog on AI <a href="https://bclement1.github.io">here</a> or by clicking on the image below: <br>
+  <a href="https://bclement1.github.io">
   <p>
-  <a href="https://bclement1.github.io">![monblogdata_nuit](https://user-images.githubusercontent.com/93796446/232519756-67bba801-bbcf-4abe-9de5-beaf4cfbcaa1.png)</a>
+    ![monblogdata_nuit](https://user-images.githubusercontent.com/93796446/232519756-67bba801-bbcf-4abe-9de5-beaf4cfbcaa1.png)
   </p>
+  </a>
 
 <!---
 bclement1/bclement1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
