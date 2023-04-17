@@ -6,9 +6,7 @@
 
 - 🤖 Visit my blog on AI <a href="https://bclement1.github.io">here</a> or by clicking on the image below: <br>
   <a href="https://bclement1.github.io">
-  <p>
-    ![monblogdata_nuit](https://user-images.githubusercontent.com/93796446/232519756-67bba801-bbcf-4abe-9de5-beaf4cfbcaa1.png)
-  </p>
+  <img src="https://user-images.githubusercontent.com/93796446/232519756-67bba801-bbcf-4abe-9de5-beaf4cfbcaa1.png" />
   </a>
 
 <!---
