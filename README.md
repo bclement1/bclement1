@@ -2,7 +2,7 @@
   - 👋 Hi, I’m Clément! <br>
   - 🌿 I love nature, 🏄‍♂️ surfing, 📚 spending time reading... and 👨‍💻 programming! <br>
   - 🌱 I’m currently learning GitHub Actions! <br>
-  - 💞️ Feel free to contact me if you willing to collaborate on anything related to Machine Learning or AI! <br>
+  - 💞️ Feel free to contact me if you are willing to collaborate on anything related to Machine Learning or AI! <br>
   - 📫 You can reach me at: <a href="">clement.boulay@student-cs.fr</a> <br>
   - 🤖 Visit my blog on AI <a href="https://bclement1.github.io">here</a> or by clicking on the image below: <br><br>
   <p> 
